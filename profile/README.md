@@ -16,6 +16,9 @@ Light direction and automation for DJs, parties and small shows.
 **[Pepperizer](https://pepperizer.me)**  
 AI agents with persistent Linux workspaces, accessible through WhatsApp.
 
+**[xcool](https://xcool.cc)**  
+Creating creators. An experimental learning universe built around role-playing, storytelling and world-building, with AI-powered characters. In development.
+
 *In development:* Paiol DMX and Beat Detector. Names and release dates are not final.
 
 ## From the lab
@@ -24,6 +27,14 @@ AI agents with persistent Linux workspaces, accessible through WhatsApp.
 An unofficial Android adaptation of Kuba Audio's original Auri web equalizer. The original presets and interface, with the missing USB bridge.
 
 [Download Auri EQ v1.0](https://github.com/dangercircuits/aurieq-releases/releases/tag/v1.0) · [Original Kuba equalizer](https://equalizador.kuba.audio/)
+
+**[tease4strips](https://dangercircuits.com/labs/tease4strips/)**  
+An Art-Net LED node on perfboard: 1,800 pixels, three boards, nine hours of party. Code and schematic not published yet.
+
+## Ideas & writing
+
+**[Realidade Líquida](https://dangercircuits.com/labs/#ideas)**  
+A book by Oda, in progress. How people construct what they consider real, inhabit different regimes of plausibility and try to talk across those borders.
 
 ---
 
